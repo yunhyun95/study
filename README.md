@@ -1,1 +1,68 @@
 # study
+<!DOCTYPE html>
+<html>
+<head>
+<title>title</title>
+<meta charset="utf-8">
+</head>
+<body>
+  <h1><a href="1.html">Hi!</a></h1>
+  <p>안녕하세요, 반갑습니다.
+<br>
+
+  <img src="leaf.jpg"
+  width="12%">
+  <ol>
+  <li><a href="2.html">strong</a></li>
+  <li>u</li>
+  <li>통계기반</li>
+  <li>줄바꿈</li>
+  <li>h</li>
+  </ol>
+
+</P>
+
+여기서 배우자
+<p><a href="https://opentutorials.org/course/3084" target="_blank">HTML 배우기</a></p>
+<br> 여기는 <a href="https://github.com/"target="_blank"> 깃허브</a> 이다
+
+2. u
+<p>글자에 <u>밑줄을</u> 그어줌</p>
+
+3. 통계 기반
+<p><a href="https://advancedwebranking.com/html/" target="_blank">https://advancedwebranking.com/html/</a></p>
+
+4. 줄바꿈
+<p>p는 문단을 지정</p>
+"<p style="margin-top:45px;">p style="margin-top:45px; 이거는 저 숫자만큼 빈칸 띄움<p style="margin-top:45px;">"
+<p>br은 그냥 한줄 엔터</p>
+
+5. h
+<p>h는 제목을 정하는건데 숫자에 따라</p>
+<h1>h1</h1><br>
+<h2>h2</h2><br>
+<h3>h3</h3><br>
+
+6. img
+<p>img는 그림을 넣어주는데, <br>
+  img src="leaf.jpg" 이렇게 쓰면 해당 폴더의 해당 이미지가 들어감 <br>
+  단, 그림의 크기가 크기때문에 <br>
+  width="10%"등으로 크기 조절 <br><br>
+  <strong>30%</strong> <br>
+  <img src="leaf.jpg"
+  width="30%"> <br>
+  <strong>10%</strong> <br>
+  <img src="leaf.jpg"
+  width="10%"></p>
+
+  7. 링크걸기
+  <p><a href="https://www.naver.com/" target="_blank"> 네이버</a></p>
+    <p>a href="https://www.naver.com/" target="_blank" 를 치고 뒤에 다른 단어를 입력하면 해당 단어에 링크가 걸림</p>
+</p>
+<p>target="_blank" 이거를 치면 새창에서 열기,<br><a href="https://dankook.ac.kr"target="_blank"> 단국대</a> <br>
+
+없으면 그냥 이동 <a href="htts://www.google.com"><br>google</a><br>
+</p>
+
+</body>
+</html>
